@@ -1,0 +1,79 @@
+.wrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.line {
+    height: 90px;
+    width: 30%;
+    background-color: #ff9734;
+}
+
+.name {
+    font-family: "Century Gothic", sans-serif;
+    font-size: 54px;
+    padding: 1.5% 0% 0% 0.5%;
+}
+
+.profession {
+    font-style: italic;
+    font-size: 20px;
+    padding: 0% 0% 2.5% 0.5%;
+}
+
+.block {
+    display: flex;
+}
+
+.left {
+    width: 30%;
+}
+
+.right {
+    width: 60%;
+    padding: 0 0 0 5%;
+}
+
+.photo {
+    width: 100%;
+    background-color: #ff9734;
+}
+
+.photo img {
+    width: 100%;
+}
+
+.bottom {
+    padding: 3% 10% 7% 10%;
+    height: 100px;
+    background-color: #ff9734;
+    color: white;
+    font-size: 14px;
+}
+
+h1 {
+    font-weight: normal;
+    margin: 0 0 1% 0;
+}
+
+h3 {
+    margin: 0 0 2% 0;
+}
+
+h4 {
+    margin: 0 0 2% 0;
+    color: gray;
+}
+
+.block2 {
+    display: flex;
+    margin: 0 0 7% 0;
+}
+
+.date {
+    width: 22%;
+}
+
+.text {
+    width: 78%;
+}
